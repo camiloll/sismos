@@ -2,6 +2,7 @@
 Usage
 =====
 
-To use Sismos in a project::
+To use `sismos` in a project::
 
-    import sismos
+            >>> from sismos.sismos import lastEarthquake
+            >>> lastEarthquake()
