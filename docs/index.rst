@@ -1,4 +1,4 @@
-Welcome to Sismogs's documentation!
+Welcome to Sismos's documentation!
 ======================================
 
 .. toctree::

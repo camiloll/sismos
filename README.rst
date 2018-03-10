@@ -1,5 +1,5 @@
 =======
-Sismogs
+Sismos
 =======
 
 

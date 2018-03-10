@@ -2,6 +2,6 @@
 Usage
 =====
 
-To use Sismogs in a project::
+To use Sismos in a project::
 
     import sismos
